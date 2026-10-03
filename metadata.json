@@ -1,0 +1,6 @@
+{
+  "name": "Talent Graph",
+  "description": "Professional Identity in Sports - Verified data, structured profiles, and long-term performance tracking for athletes, scouts, clubs, and coaches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
